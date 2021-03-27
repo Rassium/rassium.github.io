@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rassium.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-27T15:43:49.375Z</updated>
+    <updated>2021-03-27T15:48:25.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rassium.github.io"/>
     <link rel="self" href="https://rassium.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>暮春者，春服既成，冠者五六人，童子六七人，浴乎沂，风乎舞雩，咏而归。</subtitle>
     <logo>https://rassium.github.io/images/avatar.png</logo>
     <icon>https://rassium.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
